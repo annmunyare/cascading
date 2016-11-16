@@ -1,0 +1,15 @@
+body{
+  font font-family: sans serif;
+}
+.jack p{
+  background-color: red;
+
+}
+.jackline p{
+  background-color: yellow;
+
+}
+.jack p a{
+  font-weight: bold;
+  font-style: italic;
+}
